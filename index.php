@@ -15,7 +15,7 @@
         <title>Hello, World! in PHP</title>
     </head>
     <body>
-        <h1><?php echo 'Hello, World! in PHP'; ?></h1>
-        <p><?php echo 'This is my first web page, using PHP.'; ?></p>
+        <h1><?php echo "Hello, World! in PHP"; ?></h1>
+        <p><?php echo "This is my first web page, using PHP."; ?></p>
     </body>
 </html>
